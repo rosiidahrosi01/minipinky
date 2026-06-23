@@ -176,6 +176,15 @@ hr {
  padding-top: 42px;
 }
 
+#team .col-md-4 {
+  padding-top: 42px;
+}
+
+#team img {
+  width: 100%;
+  height: auto;
+}
+
 /* menu section */
 #menu h4 {
 	line-height: 1.5;
